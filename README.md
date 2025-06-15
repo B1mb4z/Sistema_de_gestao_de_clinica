@@ -1,4 +1,3 @@
----
 
 ```markdown
 # 🏥 Sistema de Gestão de Consultas Médicas
