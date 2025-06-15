@@ -1,7 +1,3 @@
-Excelente trabalho, Elvin! O teu `README.md` está muito completo, informativo e pronto para entregar. Só há alguns pontos pequenos que podemos ajustar para alinhar com o que realmente foi feito no projeto atual (sem exageros ou recursos que não estão no código).
-
-Aqui vai a versão ajustada e realista do `README.md`, totalmente condizente com o teu sistema funcional:
-
 ---
 
 ```markdown
